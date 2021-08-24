@@ -1,0 +1,15 @@
+{
+  "name": "47-06-11-recursion-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recursion.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Jim Geist",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
